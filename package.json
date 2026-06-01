@@ -1,5 +1,5 @@
 {
-  "name": "Pomni AI",
+  "name": "𝕸𝖚𝖘𝖙𝖆𝖋𝖆 𝖇𝖚𝖌 𝖇𝖔𝖙",
   "version": "2.0.0",
   "description": "Simple WhatsApp bot, Modified by VENi - youssefv",
   "main": "index.js",
@@ -7,8 +7,8 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": ["whatsapp-bot", "pomni-ai"],
-  "author": "VENi - youssefv",
+  "keywords": ["whatsapp-bot", "𝕸𝖚𝖘𝖙𝖆𝖋𝖆 𝖇𝖚𝖌 𝖇𝖔𝖙 𝕬𝖎"],
+  "author": "𝕽𝖆 - 𝕸𝖚𝖘𝖙𝖆𝖋𝖆",
   "license": "MIT",
   "dependencies": {
     "meowsab": "https://github.com/deveni0/ws/tarball/main",
